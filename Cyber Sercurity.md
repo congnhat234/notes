@@ -1,11 +1,13 @@
-- [1. Introduction](#1. Introduction)
-- [2. Social Engineering](#2. Social Engineering)
-- [3. Example Employee Security Policy](#3. Example Employee Security Policy)
-- [4. Common Attack Types](#4. Common Attack Types)
-- [5. Servers vs. Managed Services](#5. Servers vs. Managed Services)
-- [6. Network Segmentation](#6. Network Segmentation)
-- [7. Basic Firewall Concepts](#7. Basic Firewall Concepts)
-- [8. Honey Pots](#8. Honey Pots)
+- [Cyber security](#cyber-security)
+  - [1. Introduction](#1-introduction)
+  - [2. Social Engineering](#2-social-engineering)
+    - [How do we train the people that we work with to kind of start thinking this way?](#how-do-we-train-the-people-that-we-work-with-to-kind-of-start-thinking-this-way)
+  - [3. Example Employee Security Policy](#3-example-employee-security-policy)
+  - [4. Common Attack Types](#4-common-attack-types)
+  - [5. Servers vs. Managed Services](#5-servers-vs-managed-services)
+  - [6. Network Segmentation](#6-network-segmentation)
+  - [7. Basic Firewall Concepts](#7-basic-firewall-concepts)
+  - [8. Honey Pots](#8-honey-pots)
 
 # Cyber security
 
