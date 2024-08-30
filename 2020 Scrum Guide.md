@@ -23,6 +23,8 @@
     - [Increment](#increment)
       - [Commitment: Definition of Done](#commitment-definition-of-done)
   - [End Note](#end-note)
+- [Escaping the Predictability Trap](#escaping-the-predictability-trap)
+  - [Demanding predictability creates a set of predictable dysfunctions](#demanding-predictability-creates-a-set-of-predictable-dysfunctions)
 
 # The Scrum Guide
 ## Scrum Definition
@@ -231,3 +233,13 @@ Each artifact contains a commitment to ensure it provides information that enhan
 👉 The Scrum framework, as outlined herein, is immutable.
 
 👉 While implementing only parts of Scrum is possible, the result is not Scrum.
+
+---
+---
+
+# Escaping the Predictability Trap
+## Demanding predictability creates a set of predictable dysfunctions
+- **Predictable plans** - Comparing actuals to plans is deeply ingrained in many organizations who somehow think that the future can be predicted with accuracy, so any deviation from a plan is evidence of poor performance, and questioning a plan is viewed as “being negative”. Unfortunately, we live in an uncertain world. False certainty does us no good; it actually prevents us from making good choices and from achieving greater goals.  And punishing people because they didn’t guess correctly is a waste of time and discourages important learning.  Instead of demanding predictable plans, focus on articulating clear goals and clearly framing experiments, including how you will evaluate them, and be open to learning new things.
+- **Predictable productivity** - Managers love focusing on productivity and “efficiency” but frequently fail to consider the value that is being delivered. Delivering value is what is important, not how many “units of work” (like story points, which are themselves just guesses) were delivered. What is better: driving 100 miles per hour in the wrong direction, or one mile per hour in the right? Productivity is important, but tracking does not help to improve it. Instead, focus your efforts on removing waste and impediments, and clearly articulating goals. When walking a rough and uncertain path, it’s not how fast you go that matters but whether you reach your destination. To go faster, place smaller bets, run shorter experiments, and evaluate where you are more frequently; you’ll save time not having to backtrack later.
+- **Predictable careers** - Each of us likes to believe that we are on the path to success. The notion of a “career” is a story we tell ourselves about how what we are doing now is leading to something better. The problem is that we are not very good at anticipating the future, and we really have no idea of the kinds of opportunities we may encounter along the way. It may seem a bit scary that we really don’t know where we are headed, and that luck plays a large part in what we end up doing. The reality is that we cannot really imagine what jobs will exist in ten years, or even five, nor can we conceive that many of today’s jobs will no longer exist. So how to do we prepare ourselves for what lies ahead? By cultivating flexibility, by trying new things, and by solving hard problems and acquiring whatever skills we need to do so. In the end, adaptability and ability to learn quickly are the keys to success, not steadily marching to the beat of someone else’s drum. Just as with Scrum, we succeed personally by trying new approaches and evaluating the results, in measured experiments.
+- **Predictable agile transformation** - “Transformation” is a word that I often associate with the phrase “magical thinking”: organizations seem to believe that they can predictively plan how they are going to “become agile”.  This is usually based on the misconception that agile is a process, or is rather like a tool, that can be “installed” or “rolled out” to an organization. It doesn’t work that way. Agility, or the word I think better captures the essence of what we seek, adaptability, is a cultural quality, a way of thinking and acting that deeply changes the way that people see and act in the world. It is not a specific set of practices or behaviors that can be adopted. It is a way of thinking and acting that involves continually seeking better results and better outcomes. As such, specific practices will change as conditions and skills change. We cannot plan how this is going to proceed, and as different teams have different challenges, their path toward agility will be different. There is no “magical” set of practices, roles, or processes that makes this easier.
