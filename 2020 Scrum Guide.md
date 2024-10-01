@@ -25,6 +25,22 @@
   - [End Note](#end-note)
 - [Escaping the Predictability Trap](#escaping-the-predictability-trap)
   - [Demanding predictability creates a set of predictable dysfunctions](#demanding-predictability-creates-a-set-of-predictable-dysfunctions)
+- [How to Build Trust to Enable Agility](#how-to-build-trust-to-enable-agility)
+  - [What is Trust](#what-is-trust)
+  - [Anatomy of Trust](#anatomy-of-trust)
+    - [Boundaries](#boundaries)
+    - [Reliability](#reliability)
+    - [Accountability](#accountability)
+    - [Vault](#vault)
+    - [Integrity](#integrity)
+    - [Non-Judgment](#non-judgment)
+    - [Generosity](#generosity)
+- [5 Powerful Things About the Sprint](#5-powerful-things-about-the-sprint)
+  - [#1 - Focus](#1---focus)
+  - [#2 – Predictability](#2--predictability)
+  - [#3 – Control](#3--control)
+  - [#4 – Freedom](#4--freedom)
+  - [#5 – Opportunity](#5--opportunity)
 
 # The Scrum Guide
 ## Scrum Definition
@@ -41,7 +57,7 @@
 - Scrum employs an iterative, incremental approach to optimize predictability and to control risk.
 - Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
 - Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
-- Scrum pillars:  transparency, inspection, and adaptation.
+- Scrum pillars: transparency, inspection, and adaptation.
 
 ### Transparency
 - The emergent process and work must be visible to those performing the work as well as those receiving the work.
@@ -132,8 +148,8 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
   -  Quality does not decrease;
   -  The Product Backlog is refined as needed; and,
   -  Scope may be clarified and renegotiated with the Product Owner as more is learned.
--  When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame.
--  Each Sprint may be considered a short project.
+- When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame.
+- Each Sprint may be considered a short project.
 - Practices to forecast progress: burn-downs, burn-ups, or cumulative flows
 
 💥A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
@@ -177,7 +193,7 @@ Sprint Planning topics:
 👉 Purpose: to plan ways to increase quality and effectiveness.
 
 - The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done.
--  The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
+- The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
 - The most impactful improvements may even be added to the Sprint Backlog for the next Sprint.
 - The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a onemonth Sprint. For shorter Sprints, the event is usually shorter.
 
@@ -239,7 +255,119 @@ Each artifact contains a commitment to ensure it provides information that enhan
 
 # Escaping the Predictability Trap
 ## Demanding predictability creates a set of predictable dysfunctions
-- **Predictable plans** - Comparing actuals to plans is deeply ingrained in many organizations who somehow think that the future can be predicted with accuracy, so any deviation from a plan is evidence of poor performance, and questioning a plan is viewed as “being negative”. Unfortunately, we live in an uncertain world. False certainty does us no good; it actually prevents us from making good choices and from achieving greater goals.  And punishing people because they didn’t guess correctly is a waste of time and discourages important learning.  Instead of demanding predictable plans, focus on articulating clear goals and clearly framing experiments, including how you will evaluate them, and be open to learning new things.
-- **Predictable productivity** - Managers love focusing on productivity and “efficiency” but frequently fail to consider the value that is being delivered. Delivering value is what is important, not how many “units of work” (like story points, which are themselves just guesses) were delivered. What is better: driving 100 miles per hour in the wrong direction, or one mile per hour in the right? Productivity is important, but tracking does not help to improve it. Instead, focus your efforts on removing waste and impediments, and clearly articulating goals. When walking a rough and uncertain path, it’s not how fast you go that matters but whether you reach your destination. To go faster, place smaller bets, run shorter experiments, and evaluate where you are more frequently; you’ll save time not having to backtrack later.
-- **Predictable careers** - Each of us likes to believe that we are on the path to success. The notion of a “career” is a story we tell ourselves about how what we are doing now is leading to something better. The problem is that we are not very good at anticipating the future, and we really have no idea of the kinds of opportunities we may encounter along the way. It may seem a bit scary that we really don’t know where we are headed, and that luck plays a large part in what we end up doing. The reality is that we cannot really imagine what jobs will exist in ten years, or even five, nor can we conceive that many of today’s jobs will no longer exist. So how to do we prepare ourselves for what lies ahead? By cultivating flexibility, by trying new things, and by solving hard problems and acquiring whatever skills we need to do so. In the end, adaptability and ability to learn quickly are the keys to success, not steadily marching to the beat of someone else’s drum. Just as with Scrum, we succeed personally by trying new approaches and evaluating the results, in measured experiments.
-- **Predictable agile transformation** - “Transformation” is a word that I often associate with the phrase “magical thinking”: organizations seem to believe that they can predictively plan how they are going to “become agile”.  This is usually based on the misconception that agile is a process, or is rather like a tool, that can be “installed” or “rolled out” to an organization. It doesn’t work that way. Agility, or the word I think better captures the essence of what we seek, adaptability, is a cultural quality, a way of thinking and acting that deeply changes the way that people see and act in the world. It is not a specific set of practices or behaviors that can be adopted. It is a way of thinking and acting that involves continually seeking better results and better outcomes. As such, specific practices will change as conditions and skills change. We cannot plan how this is going to proceed, and as different teams have different challenges, their path toward agility will be different. There is no “magical” set of practices, roles, or processes that makes this easier.
+- **Predictable plans** - Comparing actuals to plans is deeply ingrained in many organizations who somehow think that the future can be predicted with accuracy, so any deviation from a plan is evidence of poor performance, and questioning a plan is viewed as "being negative". Unfortunately, we live in an uncertain world. False certainty does us no good; it actually prevents us from making good choices and from achieving greater goals. And punishing people because they didn’t guess correctly is a waste of time and discourages important learning. Instead of demanding predictable plans, focus on articulating clear goals and clearly framing experiments, including how you will evaluate them, and be open to learning new things.
+- **Predictable productivity** - Managers love focusing on productivity and "efficiency" but frequently fail to consider the value that is being delivered. Delivering value is what is important, not how many "units of work" (like story points, which are themselves just guesses) were delivered. What is better: driving 100 miles per hour in the wrong direction, or one mile per hour in the right? Productivity is important, but tracking does not help to improve it. Instead, focus your efforts on removing waste and impediments, and clearly articulating goals. When walking a rough and uncertain path, it’s not how fast you go that matters but whether you reach your destination. To go faster, place smaller bets, run shorter experiments, and evaluate where you are more frequently; you’ll save time not having to backtrack later.
+- **Predictable careers** - Each of us likes to believe that we are on the path to success. The notion of a "career" is a story we tell ourselves about how what we are doing now is leading to something better. The problem is that we are not very good at anticipating the future, and we really have no idea of the kinds of opportunities we may encounter along the way. It may seem a bit scary that we really don’t know where we are headed, and that luck plays a large part in what we end up doing. The reality is that we cannot really imagine what jobs will exist in ten years, or even five, nor can we conceive that many of today’s jobs will no longer exist. So how to do we prepare ourselves for what lies ahead? By cultivating flexibility, by trying new things, and by solving hard problems and acquiring whatever skills we need to do so. In the end, adaptability and ability to learn quickly are the keys to success, not steadily marching to the beat of someone else’s drum. Just as with Scrum, we succeed personally by trying new approaches and evaluating the results, in measured experiments.
+- **Predictable agile transformation** - "Transformation" is a word that I often associate with the phrase "magical thinking": organizations seem to believe that they can predictively plan how they are going to "become agile". This is usually based on the misconception that agile is a process, or is rather like a tool, that can be "installed" or "rolled out" to an organization. It doesn’t work that way. Agility, or the word I think better captures the essence of what we seek, adaptability, is a cultural quality, a way of thinking and acting that deeply changes the way that people see and act in the world. It is not a specific set of practices or behaviors that can be adopted. It is a way of thinking and acting that involves continually seeking better results and better outcomes. As such, specific practices will change as conditions and skills change. We cannot plan how this is going to proceed, and as different teams have different challenges, their path toward agility will be different. There is no "magical" set of practices, roles, or processes that makes this easier.
+
+---
+---
+# How to Build Trust to Enable Agility
+## What is Trust
+> Trust is a willingness to be vulnerable.
+
+When I trust, I am essentially making something important to me vulnerable to the actions of someone else.
+
+Distrust is when I don't feel that something I have made vulnerable to you is actually safe with you.
+
+## Anatomy of Trust
+Brené says that when we trust, "we are BRAVING connection with someone."
+
+### Boundaries
+> I establish clear boundaries, and I stick to my boundaries. You establish boundaries, and you hold your boundaries. We both respect each other’s boundaries.
+
+The Scrum framework is an example of boundaries that help a Scrum Team focus and self-organize around a goal to deliver shippable product by the end of a Sprint. Team members stick to this boundary by not accepting additional work during the Sprint that would endanger that goal. Others in the organization respect this boundary by not forcing or pressuring them to break this boundary.
+
+People may also set individual boundaries in the context of the workplace. I may set a boundary that I leave my work at the office. Or perhaps I don’t check email on the weekend. Maybe I don’t take on any new projects or activities unless I remove something equivalent.
+
+### Reliability
+> I do what I say I will do. You do what you say you will do. Over and over and over again.
+
+There are two things you must consider in order to be reliable.
+
+1. Establish clear expectations.
+2. Don’t overcommit.
+
+### Accountability
+> I hold you to account for doing the things you said you would do. You can hold me to account for doing the things I said I would do.
+
+And since we are human beings, we are going to screw up.
+
+When you do, own it. Apologize and make amends.
+
+When you are on the receiving end of it, you allow the other person to own it, apologize, and make amends.
+
+### Vault
+> What you share with me, I will hold in confidence.  And I expect you to do the same with me.. and with others.
+
+As a Scrum Master, a team member may come to me about issues with another team member. Ultimately, I will coach this team member on addressing the issues with that person directly.
+
+If you put yourself in the other person’s shoes, how would you feel if a team member was complaining about you to someone else?
+
+The Sprint Retrospective is an example of where we honor the 'vault" as a team. Only Scrum Team members participate, and the specifics of what happens in the room stays in the room. A Scrum Master helps keep a positive, continuous improvement focus rather than just dwelling on the negative and complaining.
+
+### Integrity
+> This is about choosing courage over comfort. This is about choosing what is right over what is simply fun, fast, or easy. Practice your values rather than just professing them.
+
+Product Owners show integrity by saying no to stakeholders who want something that is not in alignment with the product vision or is of low value. They don't just put it at the bottom of the Product Backlog to make the stakeholder happy.
+
+Scrum Teams show integrity by not showing partially done software in the Sprint Review.
+
+When our leaders profess their values, we expect their actions and decisions to reflect them. People don’t trust leaders who say one thing but then do another. If a leader says he values learning and innovation, but he measures individuals on a strict "billable hours" policy or by "lines of code", this inconsistency breaks down integrity.
+
+### Non-Judgment
+> You can be struggling and ask for help, and I will not judge you.  I can be struggling and ask for help, and you will not judge me.
+
+I may think that the quality of your work has been suffering and does not meet our standards, but I am not going to assume you intentionally did poor quality work or that you don’t have the same level of commitment as I do. I can hold you accountable from a place of non-judgment.
+
+Truly believing that we learn from failure is another way that teams and organizations practice non-judgement.
+
+### Generosity
+> You can assume the most generous things about my words, actions, and intentions.  And I will do the same for you.
+
+Generosity means recognizing that we are all human. We make mistakes. We go through difficult times. Generosity means we are willing to forgive, offer an opportunity to make amends, and hold space for the inevitable learning and growth that is part of being human and being part of a team.
+
+I may feel disrespected by something you said in our planning session, but I know you would not intentionally hurt me. I will have a direct and honest conversation about how I feel, but I will not label you as a disrespectful person.
+
+# 5 Powerful Things About the Sprint
+The Scrum Guide calls the Sprint the “heart of Scrum.”
+## #1 - Focus
+The purpose of a Sprint is to create a potentially releasable product Increment of value to the organization.
+
+What value is to be delivered is guided by the Sprint Goal, which does not change during the Sprint.
+
+By having this single purpose every Sprint – to create a releasable Increment – the team can bring their focus back to this.  They can set aside the distractions not related to this purpose.  They can take the new information they have uncovered and adapt their plan without losing focus.
+
+## #2 – Predictability
+While a Scrum Team may not be able to guarantee the specific scope of the Increment (i.e features/ functions), a team that is using Scrum well will be predictable in delivering a “Done” Increment every Sprint.
+
+Sprints have a consistent cadence.  This consistent cadence helps a Scrum Team understand what they are capable of delivering in a period of time.
+
+A Scrum Team can change the length of a Sprint, but they don’t change it constantly.  They do so intentionally as a part of their commitment to continuous improvement in meeting the business needs.  Then they learn and settle into a new cadence.
+
+## #3 – Control
+
+A question I am often asked is,
+
+> How long should our Sprint be?
+
+My answer is always,
+
+> How frequently does your business need to change direction?
+
+The real driver of the length of a Sprint is how often the business needs to inspect the Increment and adapt the direction based on new information.
+
+In addition, the Sprint time-box gives the business more transparency to and control of cost and schedule.  An organization can fund a number of Sprints and see the value they are getting every Sprint.  This helps make informed decisions about whether or not to keep investing money and on what to invest it.  Ultimately, this is how you control risk in complex environments.
+
+## #4 – Freedom
+The Scrum Team has the focus of a Sprint Goal and a time-box.  These boundaries create the freedom for effective self-organization, collaboration, and experimentation.
+
+Teams have to learn by doing, inspecting and adapting along the way.
+
+Sometimes there will be failure.  In fact, failure is a part of learning.  The question is how big of an impact that failure will have. A Sprint limits the impact of failure to the time-box of the Sprint.
+
+## #5 – Opportunity
+
+Scrum is a framework for opportunistic discovery.  To quote Ken Schwaber, it helps us “harness change for competitive advantage.”  Ultimately, successful Sprints enable the benefits of business agility.
+
+Scrum is the art of the possible.  It’s about being open to and ready for the opportunities you discover throughout the journey.
